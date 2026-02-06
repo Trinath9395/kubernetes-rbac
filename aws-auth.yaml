@@ -16,7 +16,7 @@ metadata:
   creationTimestamp: "2026-02-06T02:30:00Z"
   name: aws-auth
   namespace: kube-system
-  uid: 73659d63-4869-4630-b1e2-0bfc51597ece
+   uid: 14a4fcab-71e7-40f2-ad24-6f6c5be89c41
 
 
 ## Above command to configure and to connect EKS to IAM
